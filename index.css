@@ -45,3 +45,7 @@ td{
   box-sizing: border-box;
 }
 
+.panel{
+  width: 50%;
+}
+
