@@ -47,5 +47,8 @@ td{
 
 .panel{
   width: 50%;
+  padding: 20px;
+  box-sizing: border-box;
+  float: left;
 }
 
