@@ -52,3 +52,6 @@ td{
   float: left;
 }
 
+.panel-odd{
+  clear: both;
+}
