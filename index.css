@@ -47,11 +47,16 @@ td{
 
 .panel{
   width: 50%;
-  padding: 20px;
+  padding: 10px;
   box-sizing: border-box;
   float: left;
 }
 
 .panel-odd{
   clear: both;
+  padding-left: 0px;
+}
+
+.panel-even{
+  padding-right: 0px;
 }
