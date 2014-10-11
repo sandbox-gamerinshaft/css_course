@@ -64,3 +64,15 @@ td{
 .panel-even{
   padding-right: 0px;
 }
+
+#toTop{
+  position: fixed;
+  width: 14%;
+  height: 50px;
+  background-color: white;
+  border: solid 1px #ccc;
+  z-index: 1;
+  bottom: 0;
+  left: 10px;
+  border-radius: 10px 10px 0px 0px;
+}
