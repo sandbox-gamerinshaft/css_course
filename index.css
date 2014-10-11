@@ -1,5 +1,5 @@
 #wrapper{
-  padding: 20px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 h1{
@@ -81,4 +81,8 @@ td{
   text-decoration: none;
   display: block;
   padding: 10px;
+}
+
+.clear{
+  clear: both;
 }
